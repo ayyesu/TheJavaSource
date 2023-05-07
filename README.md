@@ -24,4 +24,4 @@ If you find an issue or have a suggestion for a new example or topic, feel free 
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
-This repository is inspired by the Java for Absolute Begineers written by [Iuliana Cosmina](www.linkedin.com/in/iulianacosmina).
+This repository is inspired by the Java for Absolute Begineers written by [Iuliana Cosmina](https://www.linkedin.com/in/iulianacosmina).
